@@ -39,10 +39,12 @@ Region: Australia East
 # Security Review Report
 
 Network Segmentation
+
 Three separate subnets were deployed:
  - Management
  - Servers
  - DMZ
+   
 This reduces the risk of lateral movement and supports security-zone separation.
 
 # Network Security Controls
